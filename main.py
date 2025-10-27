@@ -5,7 +5,7 @@ def say_hello(name):
     print(f'Hello, {name}')
 
 if __name__ == '__main__':
-    name = 'Tejaswi'
+    name = 'Gayathri'
     say_hello(name)
     print(to_upper(name))
 
